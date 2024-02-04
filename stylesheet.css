@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    font-family: Calibri,sans-serif;
+}
+header{
+    padding: 10px 25px;
+    text-align: center;
+    background-color: darkcyan;
+    color: whitesmoke;
+    font-size: 30px;
+}
+nav{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+}
+nav a{
+    padding: 10px 25px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+nav a:hover{
+    background-color: darkcyan;
+}
+#div1{
+    text-align: center;
+    color: grey;
+}
+#div1 input{
+    background-color: darkslateblue;
+}
+figure{
+    padding: 10px;
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 0 10px lightgrey;
+    margin-left: 30px;
+    display: inline-block;
+
+}
+figure figcaption{
+    text-align: center;
+}
+figure img{
+    text-align: center;
+    width: 100%;
+}
+footer{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background-color: grey;
+    border: none;
+    border-radius: 16px;
+    padding: 10px;
+}
+button:hover{
+    background-color: darkcyan;
+}
